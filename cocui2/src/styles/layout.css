@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.topbar {
+  height: 50px;
+  background: #222;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.body-area {
+  display: flex;
+  height: calc(100vh - 50px);
+}
+
+.content-area {
+  flex: 1;
+  padding: 20px;
+}

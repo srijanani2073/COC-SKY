@@ -1,0 +1,12 @@
+.sidebar {
+  width: 200px;
+  background: #eee;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar a {
+  margin-bottom: 10px;
+  text-decoration: none;
+}

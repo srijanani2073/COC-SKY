@@ -1,0 +1,23 @@
+.login-container {
+  width: 300px;
+  margin: 120px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.login-container h2 {
+  margin-bottom: 15px;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.login-container button {
+  width: 100%;
+  padding: 8px;
+  cursor: pointer;
+}
