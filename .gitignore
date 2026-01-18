@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python
+skychat/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+cocui2.zip
+
+cocui2/
+node_modules
